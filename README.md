@@ -1,4 +1,4 @@
-# Crianção de layout para site utilizando PhotoShop
+# Criação de layout para site utilizando PhotoShop
 1-Escolha da Paleta De Cores.
 ![image](https://user-images.githubusercontent.com/82257925/139141972-3f3deeff-be1f-4892-99a3-192499391d4d.png)
 
