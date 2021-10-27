@@ -6,7 +6,7 @@ Foto escolhida:
 ![image](https://user-images.githubusercontent.com/82257925/139141495-3a13225b-3d1e-4c12-ac28-599e30d152eb.png)
 
 2-Escolha da fonte.
-Fonte:
+Fonte: Halloween Dreams Script
 
 Site que tirei a fonte:
 https://www.dafont.com/pt/
